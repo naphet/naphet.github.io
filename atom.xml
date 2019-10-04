@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-10-01T18:03:27.314Z</updated>
+  <updated>2019-10-04T18:50:01.268Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,36 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>MarkDown语法</title>
+    <link href="http://yoursite.com/2019/10/05/MarkDown%E8%AF%AD%E6%B3%95/"/>
+    <id>http://yoursite.com/2019/10/05/MarkDown语法/</id>
+    <published>2019-10-04T18:12:04.000Z</published>
+    <updated>2019-10-04T18:50:01.268Z</updated>
+    
+    <content type="html"><![CDATA[<p>##MarkDown入门</p><p>简言：<br>Hexo支持MarkDown语法，可以方便快速的完成页面文件的编写，下面简单介绍下MarkDown语法。</p><p>优点：因为是纯文本，所以只要支持Markdown的地方都能获得一样的编辑效果，可以让作者摆脱排版的困扰</p><p>缺点：有些平台不支持Markdown编辑模式。</p><p>###标题的表示方法</p><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"><span class="section">#一级标题</span></span><br><span class="line"><span class="section">##二级标题</span></span><br><span class="line"><span class="section">###三级标题</span></span><br><span class="line"><span class="section">####四级标题</span></span><br><span class="line"><span class="section">#####五级标题</span></span><br><span class="line"><span class="section">######六级标题</span></span><br></pre></td></tr></table></figure><p><font color="red" size="5"><strong>如下所示：</strong></font></p><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="/images/1.png" alt="效果展示" title>                </div>                <div class="image-caption">效果展示</div>            </figure><p>###字体样式的表示</p><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"><span class="emphasis">*斜体文本*</span></span><br><span class="line"><span class="emphasis">_斜体文本_</span></span><br><span class="line"><span class="strong">**粗体文本**</span></span><br><span class="line"><span class="strong">__粗体文本__</span></span><br><span class="line"><span class="strong">***粗斜体文本**</span>*</span><br><span class="line"><span class="strong">___粗斜体文本__</span>_</span><br></pre></td></tr></table></figure><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="https://www.runoob.com/wp-content/uploads/2019/03/md3.gif" alt="效果展示" title>                </div>                <div class="image-caption">效果展示</div>            </figure><p>###分割线的表示</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">***</span><br><span class="line">* * *</span><br><span class="line">*****</span><br><span class="line">- - -</span><br><span class="line">----------</span><br></pre></td></tr></table></figure><p>###删除线的表示</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">~~BAIDU.COM~~</span><br></pre></td></tr></table></figure><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="https://www.runoob.com/wp-content/uploads/2019/03/B5270A31-15D0-410B-AE1D-B9655B8F331C.jpg" alt="效果展示" title>                </div>                <div class="image-caption">效果展示</div>            </figure><p>###下划线</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&lt;u&gt;带下划线文本&lt;/u&gt;</span><br></pre></td></tr></table></figure><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="https://www.runoob.com/wp-content/uploads/2019/03/05A27273-B66D-43DE-A3DB-0D32FF024093.jpg" alt="效果展示" title>                </div>                <div class="image-caption">效果展示</div>            </figure>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;##MarkDown入门&lt;/p&gt;
+&lt;p&gt;简言：&lt;br&gt;Hexo支持MarkDown语法，可以方便快速的完成页面文件的编写，下面简单介绍下MarkDown语法。&lt;/p&gt;
+&lt;p&gt;优点：因为是纯文本，所以只要支持Markdown的地方都能获得一样的编辑效果，可以让作者摆脱排版的困
+      
+    
+    </summary>
+    
+    
+      <category term="Hexo" scheme="http://yoursite.com/categories/Hexo/"/>
+    
+    
+      <category term="Hexo" scheme="http://yoursite.com/tags/Hexo/"/>
+    
+      <category term="HTML" scheme="http://yoursite.com/tags/HTML/"/>
+    
+  </entry>
   
   <entry>
     <title>Hexo搭建</title>
